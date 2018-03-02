@@ -1,5 +1,5 @@
 {
-  "name": "basic application",
+  "name": "chapter-10-turtlewolfe",
   "version": "1.0.0",
   "main": "server.js",
   "description": "Create an app for the cloud with Docker",
