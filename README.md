@@ -1,3 +1,5 @@
+[ ![Codeship Status for TurtleWolf/baseline-application](https://app.codeship.com/projects/72a28760-ffaa-0135-8b55-6673b73408d1/status?branch=master)](https://app.codeship.com/projects/279730)
+
 # Testing Push to Repository
 # Chapter 10
 In this chapter we will explore the continuous delivery development process with Node.js applications.
